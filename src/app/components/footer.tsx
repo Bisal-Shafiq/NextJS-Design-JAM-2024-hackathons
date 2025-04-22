@@ -163,7 +163,7 @@ export default function Footer() {
       <div className={`bg-[#4F4F4F] text-white font-inter`}>
         <div className="max-w-[1320px] px-[20px] sm:px-[60px] py-[20px] lg:h-[100px] mx-auto flex-col lg:flex-row flex justify-between items-center">
           <p className="m-0 font-normal text-[16px] text-center">
-            Copyright © 2024 by Bisal Shafiq. All Rights Reserved.
+            Copyright © 2025 by Bisal Shafiq. All Rights Reserved.
           </p>
           <div className="flex gap-[20px]">
             <a href="">
